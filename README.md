@@ -40,7 +40,7 @@ smart-city-portal/
 
 ---
 
-## Live Interactive Full-Stack Sandbox (Try it in the Browser!)
+## Live Interactive Full-Stack Sandbox (Try it in Browser!)
 When you run this application, it boots up an **interactive full-stack simulator** in the browser. 
 
 This simulator includes:
